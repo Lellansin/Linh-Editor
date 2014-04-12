@@ -1,0 +1,35 @@
+{
+  "name": "Linh-Editor",
+  "main": "./public/index.html",
+  "description": "A programing Editor",
+  "version": "0.0.1",
+  "keywords": [
+    "Linh",
+    "Editor",
+    "Lellansin"
+  ],
+  "window": {
+    "icon": "",
+    "width": 800,
+    "height": 500,
+    "frame": true,
+    "fullscreen": false,
+    "toolbar": false
+  },
+  "dependencies": {
+    "underscore": "~1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lellansin/Linh-Editor.git"
+  },
+  "author": "Lellansin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lellansin/Linh-Editor/issues"
+  }
+}
